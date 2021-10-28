@@ -1,0 +1,24 @@
+{
+  "name": "powell-ssg-blog",
+  "version": "1.0.0",
+  "description": "Eleventy blog tutorial by Kevin Powell",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkdave/powell-ssg-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkdave/powell-ssg-blog/issues"
+  },
+  "homepage": "https://github.com/thinkdave/powell-ssg-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
